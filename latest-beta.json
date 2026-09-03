@@ -1,5 +1,5 @@
 {
-  "version": "0.5.1",
-  "notes": "Vollversion 0.5.1 — die stabile Basis (identisch mit stable). Traum-Zyklus stabil auf beiden Plattformen, Schwarm-Anschluss, Fehlerberichte erreichen den Entwickler, Updates greifen zuverlaessig, Beenden gilt nicht mehr als Absturz.",
-  "url": "https://github.com/CorrusRufus/alfred-wolf-releases/releases/tag/v0.5.1"
+  "version": "0.5.2",
+  "notes": "Vollversion 0.5.2 — Feinschliff der Basis (identisch mit stable): Beenden+sofort-Oeffnen zuverlaessig, kein falscher Absturz-Dialog, ehrlicher Update-Knopf.",
+  "url": "https://github.com/CorrusRufus/alfred-wolf-releases/releases/tag/v0.5.2"
 }
