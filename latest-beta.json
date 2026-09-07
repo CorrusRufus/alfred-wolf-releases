@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
-  "notes": "Dev-Vorabversion 0.6.0: Tray-Punkt 'Einstellungen' oeffnet das Verwaltungsfenster (alles ausser Chats); Wolf-Kanal-Unterbau (Digest + Meldungen). Nicht fuer Kunden — stable bleibt 0.5.2.",
-  "url": "https://github.com/CorrusRufus/alfred-wolf-releases/releases/tag/v0.6.0"
+  "version": "0.6.1",
+  "notes": "Dev-Vorabversion 0.6.1: Arbeitsflaeche (Tray) + Connectors mit Trust je Werkzeug + Gruppen/Wissens-Rat/Wolf-Digest komplett. Nicht fuer Kunden — stable bleibt 0.5.2.",
+  "url": "https://github.com/CorrusRufus/alfred-wolf-releases/releases/tag/v0.6.1"
 }
